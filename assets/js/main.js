@@ -17,8 +17,7 @@ gsap.ticker.lagSmoothing(0)
 
 // BACLGROIND STICK, project stick, canvas pin -- GSAP
 import { gsap } from 'gsap';
-import { ScrollTrigger } from 'gsap/scrollTrigger';
-import { faceDirection } from 'three/examples/jsm/nodes/Nodes.js'
+import { ScrollTrigger } from 'gsap/src/ScrollTrigger';
 
 
 gsap.registerPlugin(ScrollTrigger);
