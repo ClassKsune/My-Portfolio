@@ -24,7 +24,7 @@
 html {
     --background: #0E1212;
     --text-colour: #fff;
-    --ascent-colour: #93139c;
+    --ascent-colour: #d717e4;
     overflow-x: hidden;
 }
 
@@ -440,7 +440,6 @@ nav {
     padding: 10px;
     position: relative;
     margin-top: -100vh;
-
     font-family: "Roboto", sans-serif;
   }
   
