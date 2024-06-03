@@ -377,16 +377,6 @@ nav {
     color: #E65C19;
 }
 
-.about--text p a::before {
-    content: "";
-    position: absolute;
-    width: 0;
-    padding: 0;
-    margin-top: calc(1em + 1.5vmin);
-    height: 3px;
-    background-color: #E65C19;
-    transition: .3s ease-in-out;
-}
 
 .about--text p a:hover::before {
     width: calc(0.75em + 20vmin);
