@@ -67,7 +67,7 @@ const tlClick = gsap.timeline({
     trigger: ".about",
     start: "-60% 30%",
     end: "100% 30%",
-    markers: true,
+    markers: false,
     scrub: 0.5
   }
 });
